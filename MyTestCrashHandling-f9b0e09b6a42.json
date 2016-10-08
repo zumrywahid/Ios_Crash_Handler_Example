@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mytestcrashhandling",
+  "private_key_id": "f9b0e09b6a4234a73d4b2b6f6337447a02cd487b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDvb7kCl3Hb6WgO\nFMGulAdm0W8tXx1yWeRlrHydOMtoP9pn2EiuDRFfiDdQy71rggxiHt2gunR8wWFs\nuqxUWjQqbS/xdjC6Qt9rOGQdW0JXvNk2LU3aMreT0dZybdxNUDHNb1n5f8YtZJQ5\nPYjQ4/kPzYKlr5Em5cPrXDvEpVw61bois81IzdhZHSP7rz8c97k6bc9zhXLSyeiB\n0qrR6HtzUyriBUNzGNL1DxczSsAHoirbepNPGCPTNOxA5gA/GUYTSm0Y0V0FMnwy\nRow5qH+9PsPQe2/kC+ebGlHvn9kHsKv6/4AAOh94hrk8mP5Hcj23Ibx/5fyIgmzq\nf9SEnJrrAgMBAAECggEAW0gTl3pXLQix49Rj9oN2wusLYJfHaSX+HgkBRQs2+NqH\nEFnzc2+F9Q7AT+wsncTppaqwwarz5+/tjX8pXcs54gbYZUyyzP/bn0vTVyHIjBxy\nDuZ8rLfzJsaz49IgT9VH91MBUU42Jm4W2C+ubjzLYgvuR+5D/zlPVPZHzvNf0wmV\ncpnqWE7ERCacQVCNbuNmvGezxQ3tpSVRNyjTtHSkTS7KFPNt7CyrmWIsAhavvWEu\nlHrI28tMmg0UjCnSNvTynpwdRRJ+598exqzdAvkgpiwBmTdtkoVIpxLZ2U1HICSS\nRl7i95E1NMFSiZMlcS0kFk/Us7sP3T7hlx/31lTpQQKBgQD5A5Q6CsjPHPaAusn4\neWM3McLQVRzW7i1qDvMakbtFBPNI/fvbhJtdwuVtgzrw1kB4MGuyD+LaUuOw1YFn\nMYi1aj3OTana3ybNF7tzy/YykEd7kFcPSYXKiOL4ANWPIeD1xs6haFmEcgpY+8M+\nHY2dToGS6diO9nBjWv1grOtRIQKBgQD2J1uGoyCkwHiPzpyvP2Uc9SUBgjWONBIQ\nlas1AX9T5p9VhW3HToqoO0DgaOUoCVxpTIs+gFyeNnoBcb3mP+7f/ZUuoyfgooP8\n1UM4ztlaeNo5/FKUU6HbvPFPNreDak6yvcOnANZM3jvKoTvk8aqe1h3nLNOx80H9\nsgsq0K/OiwKBgBDqcVNQEDwhl40/IyFB/b9uHfHRFlhzbZpa0aDobXRO1cgLmORc\nqcFA0B0UYRijNVX01BwQgDSclOMaXeQItWS9ht1Q4U0BA73C8vT20g61RmXadE+R\niwkrK1/1joxenM2VZ8wHLq2UoadR0v2RPGGHR74XLKLpktDtCXFbzdCBAoGBAOkj\nrdR/fNOOWKIcFtsFOEeNCFe9c+wT9Wgv2dCCco6MyCzAC5HSGhHszS2/LAwXkadK\nEDhKa26OOlBT4oDJ3P3ZuApMDeD9C/XUJ68Oe17tSAPTsIM8EvmEoylbscSOU6uH\ngGAUsuRrOEZbH9df7TIzqm7iTj8lH0Oh9mG+9kSxAoGBALVJqSZPHWtyDgNBCUxx\nVXFe+Cp27bj1w4LwF7yiIuCI54bdaEhrgTMCT8MfwPfU18sQbaGjpk1ROlMdfkFJ\nvPHyXFAPApW5BYJBiAoHHC8Pncd2cVbjnJHxkBLOevhy44G+y7CokS5lnNjHixCx\nsGDcjSTpOqeGF7vvy0U3D7nh\n-----END PRIVATE KEY-----\n",
+  "client_email": "symbol-upload-service-account@mytestcrashhandling.iam.gserviceaccount.com",
+  "client_id": "100853967259865851230",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/symbol-upload-service-account%40mytestcrashhandling.iam.gserviceaccount.com"
+}
